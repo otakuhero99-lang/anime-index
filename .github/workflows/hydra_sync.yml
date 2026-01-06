@@ -55,12 +55,12 @@ jobs:
           git remote remove mirror4
 
       # =========================================================
-      # 4️⃣ MIRROR 4: verseotak01-dot
+      # 4️⃣ MIRROR 4: otakverse01-dot
       # =========================================================
-      - name: Sync to verseotak01-dot
+      - name: Sync to otakverse01-dot
         run: |
           git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror3 https://verseotak01-dot:${{ secrets.PAT_MIRROR_3 }}@github.com/verseotak01-dot/anime-index.git
+          git remote add mirror3 https://otakverse01-dot:${{ secrets.PAT_MIRROR_3 }}@github.com/otakverse01-dot/anime-index.git
           git push mirror3 main --force
           git remote remove mirror3
 
