@@ -9,69 +9,81 @@ jobs:
   distribute_traffic:
     runs-on: ubuntu-latest
     steps:
+      # 👇 FIX #1: Add 'persist-credentials: false' here
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          persist-credentials: false 
 
       # =========================================================
-      # 1️⃣ MIRROR 1 ‎otakuhero99-lang
+      # 1️⃣ MIRROR 1 (otakuhero99-lang)
       # =========================================================
-      - name: ‎otakuhero99-lang
+      - name: Sync to otakuhero99-lang
         run: |
-          # ⬇️ REPLACE 'DevCache99' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
+          # 👇 FIX #2: Force clear any stuck credentials
+          git config --global --unset http.https://github.com/.extraheader || true
+          
+          # Add the remote with the Secret
           git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/otakuhero99-lang/anime-index.git
 
+          # Push
           git push mirror1 main --force
           git remote remove mirror1
 
       # =========================================================
-      # 2️⃣ MIRROR 2 balwindar-wq
+      # 2️⃣ MIRROR 2 (balwindar-wq)
       # =========================================================
-      - name: balwindar-wq
+      - name: Sync to balwindar-wq
         run: |
-          # ⬇️ REPLACE 'ProjectRonin' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
+          # Force clear again just to be safe
+          git config --global --unset http.https://github.com/.extraheader || true
+
           git remote add mirror2 https://balwindar-wq:${{ secrets.PAT_MIRROR_2 }}@github.com/balwindar-wq/anime-index.git
           git push mirror2 main --force
           git remote remove mirror2
 
       # =========================================================
-      # 3️⃣ MIRROR 3 otakverse01
+      # 3️⃣ MIRROR 3 (otakverse01)
       # =========================================================
-      - name: otakverse01
+      - name: Sync to otakverse01
         run: |
-          # ⬇️ REPLACE 'NeonStack' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
+          git config --global --unset http.https://github.com/.extraheader || true
+
           git remote add mirror3 https://otakverse01:${{ secrets.PAT_MIRROR_3 }}@github.com/otakverse01/anime-index.git
           git push mirror3 main --force
           git remote remove mirror3
 
       # =========================================================
-      # 1️⃣ MIRROR 1 verseotak01-dot
+      # 4️⃣ MIRROR 4 (verseotak01-dot)
       # =========================================================
-      - name: verseotak01-dot
+      - name: Sync to verseotak01-dot
         run: |
-          # ⬇️ REPLACE 'DevCache99' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror1 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/verseotak01-dot/anime-index.git
-          git push mirror1 main --force
-          git remote remove mirror1
+          git config --global --unset http.https://github.com/.extraheader || true
+
+          git remote add mirror4 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/verseotak01-dot/anime-index.git
+          git push mirror4 main --force
+          git remote remove mirror4
 
       # =========================================================
-      # 2️⃣ MIRROR 2 OtaKuNexa
+      # 5️⃣ MIRROR 5 (OtaKuNexa - Wait, is this a mirror?)
       # =========================================================
-      - name: OtaKuNexa
+      # ⚠️ NOTE: If OtaKuNexa is the MAIN account, you don't need this block.
+      # If it is a DIFFERENT account, keep it.
+      - name: Sync to OtaKuNexa
         run: |
-          # ⬇️ REPLACE 'ProjectRonin' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror2 https://OtaKuNexa:${{ secrets.PAT_MIRROR_5 }}@github.com/OtaKuNexa/anime-index.git
-          git push mirror2 main --force
-          git remote remove mirror2
+          git config --global --unset http.https://github.com/.extraheader || true
+
+          git remote add mirror5 https://OtaKuNexa:${{ secrets.PAT_MIRROR_5 }}@github.com/OtaKuNexa/anime-index.git
+          git push mirror5 main --force
+          git remote remove mirror5
 
       # =========================================================
-      # 3️⃣ MIRROR 3 hokaiwatch 
+      # 6️⃣ MIRROR 6 (hokaiwatch)
       # =========================================================
-      - name: hokaiwatch
+      - name: Sync to hokaiwatch
         run: |
-          # ⬇️ REPLACE 'NeonStack' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror3 https://hokaiwatch:${{ secrets.PAT_MIRROR_6 }}@github.com/hokaiwatch/anime-index.git
-          git push mirror3 main --force
-          git remote remove mirror3
-          
+          git config --global --unset http.https://github.com/.extraheader || true
 
+          git remote add mirror6 https://hokaiwatch:${{ secrets.PAT_MIRROR_6 }}@github.com/hokaiwatch/anime-index.git
+          git push mirror6 main --force
+          git remote remove mirror6
