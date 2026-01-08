@@ -1,14 +1,37 @@
 {
-"config": {
-    "override_bot": "your_bot_username",
-    "app_update": {
-      "latest_version": "1.0.2",
-      "force_update": false,
-      "download_url": "https://github.com/OtakuNexa/OtakuNexa-App/releases/download/v1.0.2/app-release.apk",
-      "changelog": "## ✨ New Features\n- Added Season 2 support\n- Improved video player speed\n\n## 🐞 Bug Fixes\n- Fixed crash on startup\n- Fixed black screen issue"
+  "Genocyber": {
+    "seasons": {
+      "1": {
+        "batches": {
+          "batch_uncategorized": [
+            {
+              "file": 538,
+              "name": "[S1-01] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
+            },
+            {
+              "file": 539,
+              "name": "[S1-02] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
+            },
+            {
+              "file": 540,
+              "name": "[S1-03] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
+            },
+            {
+              "file": 541,
+              "name": "[S1-04] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
+            },
+            {
+              "file": 542,
+              "name": "[S1-05] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
+            }
+          ]
+        },
+        "language": "No Audio",
+        "specials": {},
+        "total_episodes": 0
+      }
     }
   },
-  
   "Haikyuu": {
     "seasons": {
       "1": {
@@ -125,9 +148,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 25
       },
@@ -245,9 +265,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -299,9 +316,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583"
-        ],
         "specials": {},
         "total_episodes": 10
       },
@@ -367,11 +381,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "20583",
-          "28891",
-          "32935"
-        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -382,11 +391,6 @@
       "1": {
         "batches": {},
         "language": "English/Sub",
-        "mal_ids": [
-          "40748",
-          "51009",
-          "48561"
-        ],
         "specials": {
           "Special_1": {
             "file": 239,
@@ -398,11 +402,6 @@
       "2": {
         "batches": {},
         "language": "English/Sub",
-        "mal_ids": [
-          "40748",
-          "51009",
-          "48561"
-        ],
         "specials": {
           "Special_1": {
             "file": 267,
@@ -413,13 +412,130 @@
       }
     }
   },
+  "Lookism": {
+    "seasons": {
+      "1": {
+        "batches": {
+          "batch1": [
+            {
+              "file": 504,
+              "name": "Seven Deadly Sins - S5 E01 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 505,
+              "name": "Seven Deadly Sins - S5 E02 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 506,
+              "name": "Seven Deadly Sins - S5 E03 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 507,
+              "name": "Seven Deadly Sins - S5 E04 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 508,
+              "name": "Seven Deadly Sins - S5 E05 [Dual] 720p @Anime_Fair.mkv"
+            }
+          ],
+          "batch2": [
+            {
+              "file": 509,
+              "name": "Seven Deadly Sins - S5 E06 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 510,
+              "name": "Seven Deadly Sins - S5 E07 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 511,
+              "name": "Seven Deadly Sins - S5 E08 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 512,
+              "name": "Seven Deadly Sins - S5 E09 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 513,
+              "name": "Seven Deadly Sins - S5 E10 [Dual] 720p @Anime_Fair.mkv"
+            }
+          ],
+          "batch3": [
+            {
+              "file": 514,
+              "name": "Seven Deadly Sins - S5 E11 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 515,
+              "name": "Seven Deadly Sins - S5 E12 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 516,
+              "name": "Seven Deadly Sins - S5 E13 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 517,
+              "name": "Seven Deadly Sins - S5 E14 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 518,
+              "name": "Seven Deadly Sins - S5 E15 [Dual] 720p @Anime_Fair.mkv"
+            }
+          ],
+          "batch4": [
+            {
+              "file": 519,
+              "name": "Seven Deadly Sins - S5 E16 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 520,
+              "name": "Seven Deadly Sins - S5 E17 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 521,
+              "name": "Seven Deadly Sins - S5 E18 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 522,
+              "name": "Seven Deadly Sins - S5 E19 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 523,
+              "name": "Seven Deadly Sins - S5 E20 [Dual] 720p @Anime_Fair.mkv"
+            }
+          ],
+          "batch5": [
+            {
+              "file": 524,
+              "name": "Seven Deadly Sins - S5 E21 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 525,
+              "name": "Seven Deadly Sins - S5 E22 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 526,
+              "name": "Seven Deadly Sins - S5 E23 [Dual] 720p @Anime_Fair.mkv"
+            },
+            {
+              "file": 527,
+              "name": "Seven Deadly Sins - S5 E24 [Dual] 720p @Anime_Fair.mkv"
+            }
+          ]
+        },
+        "language": "Hindi | Official",
+        "specials": {},
+        "total_episodes": 0
+      }
+    }
+  },
   "Reborn as a Vending Machine": {
     "seasons": {
       "1": {
         "batches": {
           "batch1": [
             {
-              "file": 272,
+              "file": 273,
               "name": ": [@Anime_Hindi_Flix S1Ep01.mkv"
             },
             {
@@ -473,9 +589,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "62512"
-        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -537,9 +650,6 @@
           ]
         },
         "language": "Hindi",
-        "mal_ids": [
-          "62512"
-        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -549,7 +659,7 @@
     "seasons": {
       "1": {
         "batches": {
-          "batch1": [
+          "batch_uncategorized": [
             {
               "file": 349,
               "name": "[S1-01] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
@@ -569,9 +679,7 @@
             {
               "file": 353,
               "name": "[S1-05] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            }
-          ],
-          "batch2": [
+            },
             {
               "file": 354,
               "name": "[S1-06] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
@@ -591,9 +699,7 @@
             {
               "file": 358,
               "name": "[S1-10] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            }
-          ],
-          "batch3": [
+            },
             {
               "file": 359,
               "name": "[S1-11] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
@@ -613,9 +719,7 @@
             {
               "file": 363,
               "name": "[S1-15] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            }
-          ],
-          "batch4": [
+            },
             {
               "file": 364,
               "name": "[S1-16] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
@@ -635,9 +739,7 @@
             {
               "file": 368,
               "name": "[S1-20] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-            }
-          ],
-          "batch5": [
+            },
             {
               "file": 369,
               "name": "[S1-21] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
@@ -657,11 +759,117 @@
           ]
         },
         "language": "English & Japanese",
-        "mal_ids": [
-          "23755"
-        ],
         "specials": {},
         "total_episodes": 24
+      }
+    }
+  },
+  "Your Lie In April": {
+    "seasons": {
+      "1": {
+        "batches": {
+          "batch1": [
+            {
+              "file": 415,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
+            },
+            {
+              "file": 416,
+              "name": "Your Lie In April S01 E02 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            },
+            {
+              "file": 417,
+              "name": "Your Lie In April S01 E03 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            },
+            {
+              "file": 418,
+              "name": "Your Lie In April S01 E04 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            },
+            {
+              "file": 419,
+              "name": "Your Lie In April S01 E05 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            }
+          ],
+          "batch2": [
+            {
+              "file": 420,
+              "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            },
+            {
+              "file": 421,
+              "name": "Your Lie In April S01 E07 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+            },
+            {
+              "file": 422,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E08 [Hindi] 720.mkv"
+            },
+            {
+              "file": 423,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E09 [Hindi] 720.mkv"
+            },
+            {
+              "file": 424,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E10 [Hindi] 720.mkv"
+            }
+          ],
+          "batch3": [
+            {
+              "file": 425,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E11 [Hindi] 720.mkv"
+            },
+            {
+              "file": 426,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E12 [Hindi] 720.mkv"
+            },
+            {
+              "file": 427,
+              "name": "[@Anime_Hindi_Flix] Your Lie in April S01E13 [Hindi] 720.mkv"
+            },
+            {
+              "file": 428,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mkv"
+            },
+            {
+              "file": 429,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mkv"
+            }
+          ],
+          "batch4": [
+            {
+              "file": 430,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mkv"
+            },
+            {
+              "file": 431,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 17 720p.mkv"
+            },
+            {
+              "file": 432,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 18 720p.mkv"
+            },
+            {
+              "file": 433,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 19 720p.mkv"
+            },
+            {
+              "file": 434,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mkv"
+            }
+          ],
+          "batch5": [
+            {
+              "file": 435,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 21 720p.mkv"
+            },
+            {
+              "file": 436,
+              "name": "[@Anime_Hindi_Flix] season 01 episode 22 720p.mkv"
+            }
+          ]
+        },
+        "language": "Hindi",
+        "specials": {},
+        "total_episodes": 0
       }
     }
   }
