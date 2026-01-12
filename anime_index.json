@@ -238,6 +238,49 @@
           "35120"
         ],
         "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch_uncategorized": [
+                {
+                  "file": 803,
+                  "name": "01. New Club Members.mkv"
+                },
+                {
+                  "file": 804,
+                  "name": "02. Having What It Takes.mkv"
+                },
+                {
+                  "file": 805,
+                  "name": "03. The Koto Club Reborn.mkv"
+                },
+                {
+                  "file": 806,
+                  "name": "04. The First Resounding Note.mkv"
+                },
+                {
+                  "file": 807,
+                  "name": "05. Let Our Sound Resound and Reach Them.mkv"
+                },
+                {
+                  "file": 808,
+                  "name": "06. An Invisible Boundary.mkv"
+                },
+                {
+                  "file": 809,
+                  "name": "07. Unknown Sounds.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "35120"
+        ],
+        "total_episodes": 0
       }
     }
   },
