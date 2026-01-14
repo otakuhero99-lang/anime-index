@@ -233,6 +233,50 @@
     "seasons": {
       "1": {
         "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 803,
+                  "channel_id": -1003175788400,
+                  "name": "01. New Club Members.mkv"
+                },
+                {
+                  "file": 804,
+                  "channel_id": -1003175788400,
+                  "name": "02. Having What It Takes.mkv"
+                },
+                {
+                  "file": 805,
+                  "channel_id": -1003175788400,
+                  "name": "03. The Koto Club Reborn.mkv"
+                },
+                {
+                  "file": 806,
+                  "channel_id": -1003175788400,
+                  "name": "04. The First Resounding Note.mkv"
+                },
+                {
+                  "file": 807,
+                  "channel_id": -1003175788400,
+                  "name": "05. Let Our Sound Resound and Reach Them.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 808,
+                  "channel_id": -1003175788400,
+                  "name": "06. An Invisible Boundary.mkv"
+                },
+                {
+                  "file": 809,
+                  "channel_id": -1003175788400,
+                  "name": "07. Unknown Sounds.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          },
           "Multi Audio": {
             "batches": {
               "batch1": [
@@ -726,6 +770,16 @@
               ],
               "batch2": [
                 {
+                  "file": 100,
+                  "channel_id": -1003175788400,
+                  "name": "10.mkv"
+                },
+                {
+                  "file": 99,
+                  "channel_id": -1003175788400,
+                  "name": "9.mkv"
+                },
+                {
                   "file": 96,
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S02E06_1080p_x265_10bit_BluRay_Mul.mkv"
@@ -819,16 +873,6 @@
               ],
               "batch_uncategorized": [
                 {
-                  "file": 100,
-                  "channel_id": -1003175788400,
-                  "name": "10.mkv"
-                },
-                {
-                  "file": 99,
-                  "channel_id": -1003175788400,
-                  "name": "9.mkv"
-                },
-                {
                   "file": 97,
                   "channel_id": -1003175788400,
                   "name": "GDToT.com rnmhtzdacsgejpbvgjixbieer.mkv"
@@ -842,9 +886,7 @@
           "20583"
         ],
         "missing_episodes": [
-          7,
-          9,
-          10
+          7
         ],
         "total_episodes": 0
       },
@@ -864,7 +906,7 @@
                   "name": "[@Anime_Hindi_Flix S3EP-02.mkv"
                 },
                 {
-                  "file": 405,
+                  "file": 404,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S3EP-03.mkv"
                 },
@@ -899,6 +941,13 @@
                   "file": 411,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S3EP-10.mkv"
+                }
+              ],
+              "batch_uncategorized": [
+                {
+                  "file": 405,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S3EP-03.mkv"
                 }
               ]
             },
@@ -1452,6 +1501,77 @@
         "languages": {
           "English/Japanese": {
             "batches": {
+              "batch1": [
+                {
+                  "file": 684,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 685,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 02 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 686,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 03 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 687,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 04 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 688,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 689,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 690,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 691,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 692,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 693,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 694,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 695,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 696,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ],
               "batch_uncategorized": [
                 {
                   "file": 756,
@@ -1582,71 +1702,6 @@
                   "file": 704,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss Movie - 03 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 684,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 01 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 685,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 02 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 686,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 03 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 687,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 04 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 688,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 689,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 690,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 691,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 692,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 693,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 694,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 695,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 696,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
                 },
                 {
                   "file": 708,
