@@ -219,7 +219,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -230,12 +230,309 @@
       }
     }
   },
-  "Devilman Crybaby": {
+  "Devilman: Crybaby": {
     "seasons": {
       "1": {
         "languages": {
           "Hindi": {
             "batches": {
+              "batch1": [
+                {
+                  "file": 878,
+                  "channel_id": -1003175788400,
+                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_01_Dual_Audio_720p.mkv"
+                },
+                {
+                  "file": 879,
+                  "channel_id": -1003175788400,
+                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_02_Dual_Audio_720p.mkv"
+                },
+                {
+                  "file": 880,
+                  "channel_id": -1003175788400,
+                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_03_Dual_Audio_720p.mkv"
+                },
+                {
+                  "file": 881,
+                  "channel_id": -1003175788400,
+                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_04_Dual_Audio_720p.mkv"
+                },
+                {
+                  "file": 884,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.01.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 885,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.02.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 886,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.03.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 887,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.04.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 888,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.05.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 889,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.06.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 890,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.07.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 891,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.08.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 892,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.09.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 893,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.10.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 894,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.11.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 895,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.12.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 896,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.13.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 897,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.14.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 898,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.15.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch4": [
+                {
+                  "file": 899,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.16.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 900,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.17.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 901,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.18.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 902,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.19.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 903,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.20.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch5": [
+                {
+                  "file": 904,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.21.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 905,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.22.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 906,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.23.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 907,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.24.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 908,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.25.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch6": [
+                {
+                  "file": 909,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.26.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 910,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.27.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 911,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.28.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 912,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.29.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 913,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.30.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch7": [
+                {
+                  "file": 914,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.31.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 915,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.32.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 916,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.33.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 917,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.34.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 918,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.35.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch8": [
+                {
+                  "file": 919,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.36.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 920,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.37.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 921,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.38.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 922,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.39.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 923,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.40.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch9": [
+                {
+                  "file": 924,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.41.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 925,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.42.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 926,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.43.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 927,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.44.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 928,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.45.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch10": [
+                {
+                  "file": 929,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.46.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 930,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.47.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 931,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.48.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 932,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.49.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 933,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.50.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch11": [
+                {
+                  "file": 934,
+                  "channel_id": -1003175788400,
+                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.51.Dual.Audio.720p.mkv"
+                }
+              ],
               "batch_uncategorized": [
                 {
                   "file": 814,
@@ -556,285 +853,10 @@
                   "file": 877,
                   "channel_id": -1003175788400,
                   "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_Ep_64_Dual_Audio_720p.mkv"
-                },
-                {
-                  "file": 878,
-                  "channel_id": -1003175788400,
-                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_01_Dual_Audio_720p.mkv"
-                },
-                {
-                  "file": 879,
-                  "channel_id": -1003175788400,
-                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_02_Dual_Audio_720p.mkv"
-                },
-                {
-                  "file": 880,
-                  "channel_id": -1003175788400,
-                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_03_Dual_Audio_720p.mkv"
-                },
-                {
-                  "file": 881,
-                  "channel_id": -1003175788400,
-                  "name": "AnimeStrix_Fullmetal_Alchemist_Brotherhood_OVA_04_Dual_Audio_720p.mkv"
-                },
-                {
-                  "file": 884,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.01.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 885,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.02.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 886,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.03.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 887,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.04.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 888,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.05.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 889,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.06.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 890,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.07.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 891,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.08.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 892,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.09.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 893,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.10.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 894,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.11.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 895,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.12.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 896,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.13.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 897,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.14.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 898,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.15.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 899,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.16.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 900,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.17.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 901,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.18.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 902,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.19.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 903,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.20.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 904,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.21.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 905,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.22.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 906,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.23.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 907,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.24.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 908,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.25.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 909,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.26.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 910,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.27.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 911,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.28.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 912,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.29.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 913,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.30.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 914,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.31.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 915,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.32.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 916,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.33.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 917,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.34.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 918,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.35.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 919,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.36.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 920,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.37.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 921,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.38.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 922,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.39.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 923,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.40.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 924,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.41.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 925,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.42.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 926,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.43.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 927,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.44.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 928,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.45.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 929,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.46.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 930,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.47.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 931,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.48.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 932,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.49.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 933,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.50.Dual.Audio.720p.mkv"
-                },
-                {
-                  "file": 934,
-                  "channel_id": -1003175788400,
-                  "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.51.Dual.Audio.720p.mkv"
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           },
           "Multi Audio": {
             "batches": {
@@ -893,7 +915,60 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "35120"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 803,
+                  "channel_id": -1003175788400,
+                  "name": "01. New Club Members.mkv"
+                },
+                {
+                  "file": 804,
+                  "channel_id": -1003175788400,
+                  "name": "02. Having What It Takes.mkv"
+                },
+                {
+                  "file": 805,
+                  "channel_id": -1003175788400,
+                  "name": "03. The Koto Club Reborn.mkv"
+                },
+                {
+                  "file": 806,
+                  "channel_id": -1003175788400,
+                  "name": "04. The First Resounding Note.mkv"
+                },
+                {
+                  "file": 807,
+                  "channel_id": -1003175788400,
+                  "name": "05. Let Our Sound Resound and Reach Them.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 808,
+                  "channel_id": -1003175788400,
+                  "name": "06. An Invisible Boundary.mkv"
+                },
+                {
+                  "file": 809,
+                  "channel_id": -1003175788400,
+                  "name": "07. Unknown Sounds.mkv"
+                }
+              ]
+            },
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -925,6 +1000,16 @@
                   "file": 548,
                   "channel_id": -1003175788400,
                   "name": "Gachiakuta S01E05 [Hindi]_720P HD.mp4"
+                },
+                {
+                  "file": 546,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
+                },
+                {
+                  "file": 547,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
                 }
               ],
               "batch2": [
@@ -942,25 +1027,6 @@
                   "file": 551,
                   "channel_id": -1003175788400,
                   "name": "[@AniReal_Anime_Zone] S01E08 Gachiakuta 720p.mp4"
-                }
-              ],
-              "batch3": [
-                {
-                  "file": 558,
-                  "channel_id": -1003175788400,
-                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
-                }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 546,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
-                },
-                {
-                  "file": 547,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
                 },
                 {
                   "file": 550,
@@ -971,7 +1037,9 @@
                   "file": 553,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] S1EP-10.mp4"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 554,
                   "channel_id": -1003175788400,
@@ -993,6 +1061,13 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mp4"
                 },
                 {
+                  "file": 558,
+                  "channel_id": -1003175788400,
+                  "name": "[@FlyTonTV] Gachiakuta S01E15 [Hindi] 720P_HD.mkv"
+                }
+              ],
+              "batch4": [
+                {
                   "file": 559,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mp4"
@@ -1001,11 +1076,6 @@
                   "file": 560,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 17 720p.mp4"
-                },
-                {
-                  "file": 561,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix] season 1 episode 18 720p.mp4"
                 },
                 {
                   "file": 562,
@@ -1017,6 +1087,13 @@
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mp4"
                 },
+                {
+                  "file": 561,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 1 episode 18 720p.mp4"
+                }
+              ],
+              "batch5": [
                 {
                   "file": 564,
                   "channel_id": -1003175788400,
@@ -1034,22 +1111,13 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
           "59062"
         ],
-        "missing_episodes": [
-          3,
-          4,
-          7,
-          10,
-          11,
-          12,
-          13,
-          14
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       }
     }
@@ -1088,7 +1156,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1241,7 +1309,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1255,6 +1323,11 @@
           "Hindi": {
             "batches": {
               "batch1": [
+                {
+                  "file": 91,
+                  "channel_id": -1003175788400,
+                  "name": "Haikyu season 2 ep 1.mkv"
+                },
                 {
                   "file": 92,
                   "channel_id": -1003175788400,
@@ -1277,6 +1350,21 @@
                 }
               ],
               "batch2": [
+                {
+                  "file": 100,
+                  "channel_id": -1003175788400,
+                  "name": "10.mkv"
+                },
+                {
+                  "file": 99,
+                  "channel_id": -1003175788400,
+                  "name": "9.mkv"
+                },
+                {
+                  "file": 97,
+                  "channel_id": -1003175788400,
+                  "name": "GDToT.com rnmhtzdacsgejpbvgjixbieer.mkv"
+                },
                 {
                   "file": 96,
                   "channel_id": -1003175788400,
@@ -1368,49 +1456,22 @@
                   "channel_id": -1003175788400,
                   "name": "Toonworld4all_Haikyuu!!_S02E25_1080p_x265_10bit_BluRay_Mul.mkv"
                 }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 91,
-                  "channel_id": -1003175788400,
-                  "name": "Haikyu season 2 ep 1.mkv"
-                },
-                {
-                  "file": 97,
-                  "channel_id": -1003175788400,
-                  "name": "GDToT.com rnmhtzdacsgejpbvgjixbieer.mkv"
-                },
-                {
-                  "file": 99,
-                  "channel_id": -1003175788400,
-                  "name": "9.mkv"
-                },
-                {
-                  "file": 100,
-                  "channel_id": -1003175788400,
-                  "name": "10.mkv"
-                }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
           "20583"
         ],
-        "missing_episodes": [
-          1,
-          7,
-          9,
-          10
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       },
       "3": {
         "languages": {
           "Hindi": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 402,
                   "channel_id": -1003175788400,
@@ -1435,7 +1496,9 @@
                   "file": 406,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S3EP-05.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 407,
                   "channel_id": -1003175788400,
@@ -1463,7 +1526,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1476,7 +1539,7 @@
         "languages": {
           "Hindi": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 187,
                   "channel_id": -1003175788400,
@@ -1501,7 +1564,9 @@
                   "file": 191,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 05 720p.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 192,
                   "channel_id": -1003175788400,
@@ -1526,7 +1591,9 @@
                   "file": 196,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 04 episode 10 720p.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 197,
                   "channel_id": -1003175788400,
@@ -1544,7 +1611,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1563,7 +1630,7 @@
         "languages": {
           "Hindi/Sub": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 775,
                   "channel_id": -1003175788400,
@@ -1588,7 +1655,9 @@
                   "file": 779,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 780,
                   "channel_id": -1003175788400,
@@ -1613,7 +1682,9 @@
                   "file": 784,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 785,
                   "channel_id": -1003175788400,
@@ -1626,7 +1697,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1645,33 +1716,7 @@
                   "file": 793,
                   "channel_id": -1003175788400,
                   "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                }
-              ],
-              "batch2": [
-                {
-                  "file": 794,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
                 },
-                {
-                  "file": 796,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                },
-                {
-                  "file": 797,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                }
-              ],
-              "batch3": [
-                {
-                  "file": 799,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
-                }
-              ],
-              "batch_uncategorized": [
                 {
                   "file": 789,
                   "channel_id": -1003175788400,
@@ -1691,16 +1736,40 @@
                   "file": 792,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 794,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
                 },
                 {
-                  "file": 795,
+                  "file": 796,
                   "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 797,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
                 },
                 {
                   "file": 798,
                   "channel_id": -1003175788400,
                   "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 795,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 799,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
                 },
                 {
                   "file": 800,
@@ -1709,21 +1778,14 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
           "40586",
           "50738"
         ],
-        "missing_episodes": [
-          1,
-          2,
-          3,
-          4,
-          7,
-          10
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       }
     }
@@ -1862,7 +1924,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -1995,7 +2057,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2053,6 +2115,18 @@
                   "name": "Komi Cant Communicate S1 - 06 [720p] [Sub] @ani_maniaa.mp4"
                 }
               ],
+              "batch3": [
+                {
+                  "file": 625,
+                  "channel_id": -1003175788400,
+                  "name": "⁍Komi Can’t Communicate S1 - 11 [720p] [Sub] @ani_maniaa.mkv"
+                },
+                {
+                  "file": 626,
+                  "channel_id": -1003175788400,
+                  "name": "⁍Komi Can’t Communicate S1 - E12 [720p][Sub] @ani_maniaa.mkv"
+                }
+              ],
               "batch_uncategorized": [
                 {
                   "file": 615,
@@ -2068,20 +2142,10 @@
                   "file": 617,
                   "channel_id": -1003175788400,
                   "name": "Komi Cant Communicate S1 03 [720p] [Sub] @ani_maniaa.mp4"
-                },
-                {
-                  "file": 625,
-                  "channel_id": -1003175788400,
-                  "name": "⁍Komi Can’t Communicate S1 - 11 [720p] [Sub] @ani_maniaa.mkv"
-                },
-                {
-                  "file": 626,
-                  "channel_id": -1003175788400,
-                  "name": "⁍Komi Can’t Communicate S1 - E12 [720p][Sub] @ani_maniaa.mkv"
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2147,7 +2211,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2251,7 +2315,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2334,7 +2398,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2353,7 +2417,7 @@
         "languages": {
           "Japanese": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 756,
                   "channel_id": -1003175788400,
@@ -2378,7 +2442,9 @@
                   "file": 760,
                   "channel_id": -1003175788400,
                   "name": "Bunny Girl Senpai S01E05.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 761,
                   "channel_id": -1003175788400,
@@ -2403,7 +2469,9 @@
                   "file": 765,
                   "channel_id": -1003175788400,
                   "name": "Bunny Girl Senpai S01E10 [720p].mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 766,
                   "channel_id": -1003175788400,
@@ -2418,7 +2486,9 @@
                   "file": 768,
                   "channel_id": -1003175788400,
                   "name": "Bunny Girl Senpai S01E13 [720p].mkv"
-                },
+                }
+              ],
+              "batch_uncategorized": [
                 {
                   "file": 772,
                   "channel_id": -1003175788400,
@@ -2426,7 +2496,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2443,12 +2513,7 @@
         "languages": {
           "Hindi": {
             "batches": {
-              "batch_uncategorized": [
-                {
-                  "file": 270,
-                  "channel_id": -1003175788400,
-                  "name": "Unknown"
-                },
+              "batch1": [
                 {
                   "file": 275,
                   "channel_id": -1003175788400,
@@ -2469,6 +2534,13 @@
                   "channel_id": -1003175788400,
                   "name": ": [@Anime_Hindi_Flix S1Ep05.mkv"
                 },
+                {
+                  "file": 270,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                }
+              ],
+              "batch2": [
                 {
                   "file": 287,
                   "channel_id": -1003175788400,
@@ -2493,7 +2565,9 @@
                   "file": 299,
                   "channel_id": -1003175788400,
                   "name": ": [@Anime_Hindi_Flix S1Ep10.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 301,
                   "channel_id": -1003175788400,
@@ -2506,7 +2580,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2534,9 +2608,7 @@
                   "file": 314,
                   "channel_id": -1003175788400,
                   "name": "Reborn as a Vending Machine, I Now Wander the Dungeon S02E03.mp4"
-                }
-              ],
-              "batch_uncategorized": [
+                },
                 {
                   "file": 312,
                   "channel_id": -1003175788400,
@@ -2546,16 +2618,23 @@
                   "file": 317,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S2EP-04.mp4"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 325,
+                  "channel_id": -1003175788400,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
+                },
+                {
+                  "file": 334,
+                  "channel_id": -1003175788400,
+                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
                 },
                 {
                   "file": 322,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix S02EP-06.mp4"
-                },
-                {
-                  "file": 325,
-                  "channel_id": -1003175788400,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)@NEW_ANIMES_HINDI_DUB_I.mkv"
                 },
                 {
                   "file": 328,
@@ -2566,12 +2645,9 @@
                   "file": 331,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] S2EP-09.mp4"
-                },
-                {
-                  "file": 334,
-                  "channel_id": -1003175788400,
-                  "name": "(@NEW_ANIMES_HINDI_DUB_INDIA)Reborn_as_a_Vending_Mac.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 338,
                   "channel_id": -1003175788400,
@@ -2584,16 +2660,13 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
           "62512"
         ],
-        "missing_episodes": [
-          2,
-          4
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       }
     }
@@ -2604,7 +2677,7 @@
         "languages": {
           "English/Japanese": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 723,
                   "channel_id": -1003175788400,
@@ -2629,7 +2702,9 @@
                   "file": 727,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 728,
                   "channel_id": -1003175788400,
@@ -2654,7 +2729,9 @@
                   "file": 732,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 733,
                   "channel_id": -1003175788400,
@@ -2672,7 +2749,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2688,7 +2765,7 @@
         "languages": {
           "English/Japanese": {
             "batches": {
-              "batch_uncategorized": [
+              "batch1": [
                 {
                   "file": 740,
                   "channel_id": -1003175788400,
@@ -2713,7 +2790,9 @@
                   "file": 744,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S02E05_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
+                }
+              ],
+              "batch2": [
                 {
                   "file": 745,
                   "channel_id": -1003175788400,
@@ -2738,7 +2817,9 @@
                   "file": 749,
                   "channel_id": -1003175788400,
                   "name": "The_Devil_is_a_Part_Timer!_S02E10_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
+                }
+              ],
+              "batch3": [
                 {
                   "file": 750,
                   "channel_id": -1003175788400,
@@ -2751,7 +2832,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -2771,7 +2852,7 @@
         "languages": {
           "English & Japanese": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 349,
                   "channel_id": -1003175788400,
@@ -2796,9 +2877,7 @@
                   "file": 353,
                   "channel_id": -1003175788400,
                   "name": "[S1-05] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 354,
                   "channel_id": -1003175788400,
@@ -2823,9 +2902,7 @@
                   "file": 358,
                   "channel_id": -1003175788400,
                   "name": "[S1-10] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 359,
                   "channel_id": -1003175788400,
@@ -2850,9 +2927,7 @@
                   "file": 363,
                   "channel_id": -1003175788400,
                   "name": "[S1-15] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 364,
                   "channel_id": -1003175788400,
@@ -2877,9 +2952,7 @@
                   "file": 368,
                   "channel_id": -1003175788400,
                   "name": "[S1-20] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 369,
                   "channel_id": -1003175788400,
@@ -2902,7 +2975,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -3046,7 +3119,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -3190,7 +3263,7 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
@@ -3227,9 +3300,24 @@
                   "file": 419,
                   "channel_id": -1003175788400,
                   "name": "Your Lie In April S01 E05 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+                },
+                {
+                  "file": 415,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
                 }
               ],
               "batch2": [
+                {
+                  "file": 420,
+                  "channel_id": -1003175788400,
+                  "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+                },
+                {
+                  "file": 421,
+                  "channel_id": -1003175788400,
+                  "name": "Your Lie In April S01 E07 [720p] Hindi [@Anime_Hindi_Fli.mkv"
+                },
                 {
                   "file": 422,
                   "channel_id": -1003175788400,
@@ -3244,16 +3332,6 @@
                   "file": 424,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E10 [Hindi] 720.mkv"
-                },
-                {
-                  "file": 420,
-                  "channel_id": -1003175788400,
-                  "name": "Your Lie In April S01 E06 [720p] Hindi [@Anime_Hindi_Fli.mkv"
-                },
-                {
-                  "file": 421,
-                  "channel_id": -1003175788400,
-                  "name": "Your Lie In April S01 E07 [720p] Hindi [@Anime_Hindi_Fli.mkv"
                 }
               ],
               "batch3": [
@@ -3271,13 +3349,6 @@
                   "file": 427,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] Your Lie in April S01E13 [Hindi] 720.mkv"
-                }
-              ],
-              "batch_uncategorized": [
-                {
-                  "file": 415,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mkv"
                 },
                 {
                   "file": 428,
@@ -3288,7 +3359,9 @@
                   "file": 429,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mkv"
-                },
+                }
+              ],
+              "batch4": [
                 {
                   "file": 430,
                   "channel_id": -1003175788400,
@@ -3313,7 +3386,9 @@
                   "file": 434,
                   "channel_id": -1003175788400,
                   "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mkv"
-                },
+                }
+              ],
+              "batch5": [
                 {
                   "file": 435,
                   "channel_id": -1003175788400,
@@ -3326,15 +3401,13 @@
                 }
               ]
             },
-            "specials": []
+            "specials": {}
           }
         },
         "mal_ids": [
           "23273"
         ],
-        "missing_episodes": [
-          1
-        ],
+        "missing_episodes": [],
         "total_episodes": 0
       }
     }
