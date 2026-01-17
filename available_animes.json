@@ -254,5 +254,37 @@
     "languages": [
       "English/Japanese"
     ]
+  },
+  {
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "mal_ids": [
+      "39535",
+      "45576",
+      "50360",
+      "51179",
+      "55818",
+      "55888"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Sentenced to Be a Hero",
+    "mal_ids": [
+      "56009"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Naruto",
+    "mal_ids": [
+      "20"
+    ],
+    "languages": [
+      "English"
+    ]
   }
 ]
