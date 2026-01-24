@@ -33104,6 +33104,31 @@
       }
     }
   },
+  "Naruto Shippuden the Movie 7: The Last": {
+    "seasons": {
+      "NS Movie (The Last)": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1987,
+                  "channel_id": -1003175788400
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "1735",
+          "16870"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
   "Overflow": {
     "seasons": {
       "1": {
