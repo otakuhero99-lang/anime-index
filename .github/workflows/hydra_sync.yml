@@ -56,7 +56,7 @@ jobs:
       - name: Sync to AhirHero
         run: |
           git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror7 https://otakuhero99-lang:${{ secrets.AHIRHERO }}@github.com/CyberDrift00/anime-index.git
+          git remote add mirror7 https://otakuhero99-lang:${{ secrets.AHIRHERO }}@github.com/otakuhero99-lang/anime-index.git
           git push mirror7 main --force
           git remote remove mirror7
 
